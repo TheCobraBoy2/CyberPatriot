@@ -15,7 +15,7 @@ command to compile should be
 ```bash
 sudo apt update
 sudo apt install g++
-g++ -std=c++17 -O2 -o linux_audit path_to_scripts/cp_audit_windows.cpp
+g++ -std=c++17 -O2 -o linux_audit path_to_scripts/cp_audit_linux.cpp
 ```
 
 
